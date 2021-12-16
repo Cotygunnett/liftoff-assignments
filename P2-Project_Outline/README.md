@@ -7,12 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our application is a spin on a todo list planner. We will add weather information to allow  you to view more information about how you should dress or if any activities need to be moved inside. We also plan to have more features available eventually to get either news headlines or stock information to customise your planner to you.
 ### Features
-Include Features here
+1. Login authorization
+2. crud todo list
+3. Weather api connection.
 ### Technologies
-Include Technologies here
+Java/javascript/sql
 ### What I'll Have to Learn
-Include what you will need to learn here
+connecting to an outside api. 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/elG2H7Rz/liftoff-project-board
